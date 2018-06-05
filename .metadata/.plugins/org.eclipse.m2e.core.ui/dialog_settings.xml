@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/angela/Escritorio/Máster Ing. Telecomunicaciones/ISI/pruebasMockito"/>
 			<item value="/home/angela/Escritorio/Máster Ing. Telecomunicaciones/ISI/spark-example-AngelaVargas/pruebasMockito"/>
 		</list>
 		<list key="projectNameTemplate">
